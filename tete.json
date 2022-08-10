@@ -1,5 +1,9 @@
+
 {
     "name":"juan",
     "age":20,
-    "country":"venezuela"
+    "country":"venezuela",
+    "city":"maracaibo",
+    "hobbies":["programar","dormir","comer"],
+    "friends":["jose","cp","alfani"]
 }
